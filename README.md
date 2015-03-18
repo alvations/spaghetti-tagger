@@ -1,4 +1,4 @@
-Spaghetti tagger is just a simple recipe for Spanish POS tagging using the CESS corpus with NLTK's implementation of bigram and unigram taggers. It's not perfect, nor state-of-art but it's useful =)
+**Spaghetti tagger** is just a simple recipe for Spanish POS tagging using the CESS corpus with NLTK's implementation of bigram and unigram taggers. It's not perfect, nor state-of-art but it's useful =)
 
 Usage
 ====
