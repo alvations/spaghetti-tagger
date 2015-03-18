@@ -1,9 +1,9 @@
 Spaghetti tagger is just a simple recipe for Spanish POS tagging using the CESS corpus with NLTK's implementation of bigram and unigram taggers. It's not perfect, nor state-of-art but it's useful =)
 
-Right-click *[https://spaghetti-tagger.googlecode.com/svn/spaghetti.py here]* and save as _spaghetti.py_: 
+Usage
+====
 
-*Usage*
-{{{
+```
 import spaghetti as spa
 
 test_sent = 'Mi colega me ayuda a programar cosas .'.split()
@@ -27,11 +27,10 @@ print spa_tagger.uni(test_sent)
 # POS tagger trained on bigrams that includes MWEs from the CESS.
 print spa_tagger.bi(test_sent)
 
-}}}
+```
 
-----------------------------------------------------------------------------------------
-
-==References==
+References
+====
 
 *CESS*
 
