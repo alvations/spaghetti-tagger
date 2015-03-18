@@ -32,21 +32,22 @@ print spa_tagger.bi(test_sent)
 References
 ====
 
-*CESS*
+**CESS**
 
 Antonia Martí, Mariona Taulé, Lluís Márquez, Manuel Bertran. 2007. CESS-ECE: A Multilingual and Multilevel Annotated Corpus. see http://www.lsi.upc.edu/~mbertran/cess-ece/publications
 
-*NLTK*
+**NLTK**
 
 Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc. see http://nltk.org/
 
 ----------------------------------------------------------------------------------------
 
-==See Also==
+See Also
+====
 
-*[https://nlp.lsi.upc.edu/freeling Freeling Suite]* - _with Spanish and other languages_
+* [Freeling Suite](https://nlp.lsi.upc.edu/freeling) - _with Spanish and other languages_
 
-*[https://github.com/alvations/dltk.github.io Deutsche Language ToolKit (DLTK)]* - _for German NLP_
+* [Deutsche Language ToolKit (DLTK)](https://github.com/alvations/dltk.github.io) - _for German NLP_
 
 
 
