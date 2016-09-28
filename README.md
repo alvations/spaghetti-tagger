@@ -4,6 +4,7 @@ Usage
 ====
 
 ```python
+from __future__ import print_function
 import spaghetti as sgt
 
 sent1 = 'Mi colega me ayuda a programar cosas .'.split()
